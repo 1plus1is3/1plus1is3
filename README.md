@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 <a href="https://qiita.com/1plus1is3">https://qiita.com/1plus1is3</a>
 <br>
 
-+ I'm looking for a job in quantum computer cryptography.
++ I'm looking for a job in ICT field.
 + I'm studying web vulnerability assessment.
++ and I am in the process of developing some web applications.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=1plus1is3" />
