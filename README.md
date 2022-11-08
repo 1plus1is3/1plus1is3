@@ -19,14 +19,13 @@ Here are some ideas to get you started:
 <a href="https://1plus1is3.github.io/">https://1plus1is3.github.io</a>
 <br>
 :bird:Twitter
-<a href="https://twitter.com/1plus1is__">@1plus1is__</a>
+<a href="https://twitter.com/1plus1is__">@1plus1is__</a>(OK->en, jp)
 <br>
 :books:Qiita
 <a href="https://qiita.com/1plus1is3">https://qiita.com/1plus1is3</a>
 <br>
 
-+ I'm looking for a job in ICT field.
-+ I'm studying web vulnerability assessment.
++ I'm a Python engineer.
 + and I am in the process of developing some web applications.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
